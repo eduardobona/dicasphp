@@ -5,4 +5,5 @@
 
 #### Imagick
 Redimensionamento de imagens de maneira simples com PHP [código em /imagick](https://github.com/eduardobona/dicasphp)
+
 [Assista o Vídeo](https://www.youtube.com/watch?v=0c0ZcceM8kQ&t=6s)
