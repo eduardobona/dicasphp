@@ -4,10 +4,8 @@
 - Toda contribuição é válida e sugestões ou dúvidas também podem ser feitas por meio de Issues por aqui no GitHub ou comentários no Youtube.
 
 ### 1. Imagick
-Redimensionamento de imagens de maneira simples com PHP [código em /imagick](https://github.com/eduardobona/dicasphp/tree/master/imagick)
-[Assista o Vídeo](https://www.youtube.com/watch?v=0c0ZcceM8kQ&t=6s)
+[Assista o Vídeo](https://www.youtube.com/watch?v=0c0ZcceM8kQ&t=6s) Redimensionamento de imagens de maneira simples com PHP [código em /imagick](https://github.com/eduardobona/dicasphp/tree/master/imagick)
+
 
 ### 1. Include e Require
-Diferenças para o uso de include ou require [código em /include_require](https://github.com/eduardobona/dicasphp/tree/master/include_require)
-
-[Assista o Vídeo](https://www.youtube.com/watch?v=T_jSrFlcl_0)
+[Assista o Vídeo](https://www.youtube.com/watch?v=T_jSrFlcl_0) Diferenças para o uso de include ou require [código em /include_require](https://github.com/eduardobona/dicasphp/tree/master/include_require)
